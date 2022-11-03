@@ -468,7 +468,7 @@
     "js": {
       "Redoc.version": "^(.+)$\\;version:\\1"
     },
-    "scriptSrc": "/redoc\\.(?:min\\.)?js",
+    "scriptSrc": "/redoc\\.(?:(?:min|standalone)\\.)?js",
     "website": "https://github.com/Rebilly/ReDoc"
   },
   "React": {
